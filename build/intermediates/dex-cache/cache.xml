@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8b3ab3d2de2546a64df2165c184d250ca997e418">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_619f1d2aea5f43ac8efaa0dcc4d0d7353f14f677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_8a4f89a7f26eb7f353ce255e2a6ef9114c28e4b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_058c6bb778ebac9f14b268ded7b884662f93f2ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0fd0ee5fa97097a8a529cef076f305e08c751324">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_81eced4145c51912238367186db97e225f020afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\Ch05\Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_72bce77267def4e92a980a0d0f1ba03fac36078a\classes.dex" />
+    </item>
+
+</items>

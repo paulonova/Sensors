@@ -1,0 +1,7 @@
+#Thu Feb 02 08:58:13 CET 2017
+base.0=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\Sensors\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_619f1d2aea5f43ac8efaa0dcc4d0d7353f14f677
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\Sensors\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81eced4145c51912238367186db97e225f020afa\\classes.dex
+base.1=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\Sensors\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81eced4145c51912238367186db97e225f020afa
+file.0=D\:\\DESIGN_PATTERN_ANDROID\\Ch05\\Sensors\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_619f1d2aea5f43ac8efaa0dcc4d0d7353f14f677\\classes.dex
